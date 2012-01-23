@@ -8,6 +8,7 @@ class Theme_Minimal extends Theme {
     public $website = 'http://www.pyrocms.com/';
     public $description = 'Minimal template.';
     public $version = '1.0';
+    $ciao = "ciao!";
 
 }
 
